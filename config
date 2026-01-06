@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "sounds": [
+    {
+      "id": "rain_01",
+      "title": "Night Rain",
+      "category": "Rain",
+      "audioUrl": "https://raw.githubusercontent.com/yourname/calm-sleep/main/sounds/rain/night_rain.mp3",
+      "imageUrl": "https://raw.githubusercontent.com/yourname/calm-sleep/main/images/rain.jpg",
+      "loop": true
+    }
+  ]
+}
