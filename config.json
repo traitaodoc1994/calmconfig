@@ -7,5 +7,11 @@
       "audioUrl": "https://raw.githubusercontent.com/traitaodoc1994/calmconfig/main/music/just-relax.mp3",
       "imageUrl": "https://raw.githubusercontent.com/traitaodoc1994/calmconfig/main/background-images/Google_AI_Studio_2026-01-06T16_06_35.559Z.png"
     },
+    {
+      "id": "002",
+      "title": "Inner Peace",
+      "audioUrl": "https://raw.githubusercontent.com/traitaodoc1994/calmconfig/main/music/inner-peace.mp3",
+      "imageUrl": "https://raw.githubusercontent.com/traitaodoc1994/calmconfig/main/background-images/Google_AI_Studio_2026-01-10T11_15_56.085Z.png"
+    },
   ]
 }
